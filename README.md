@@ -1,3 +1,3 @@
 # Deleter
 
-Depends on [https://github.com/KunoSayo/BattleLibrary](battle library)
+Depends on [battle library](https://github.com/KunoSayo/BattleLibrary)
